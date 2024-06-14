@@ -1,4 +1,4 @@
-<img src="assets/countdown.png" alt="Stop Countdown" />
+<img src="src/assets/countdown.png" alt="Stop Countdown" />
 
 ## Stop Countdown Game
 Game based on React JS
