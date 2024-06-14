@@ -1,6 +1,7 @@
 <img src="" alt="Stop Countdown" />
 
 ## Stop Countdown Game
+Game based on React JS
 
 ## Install
 
